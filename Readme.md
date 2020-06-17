@@ -22,4 +22,7 @@ PyQt5  5.14.2
 wave    
 
 
+#### 三、屏幕截图 Screenshot    
+
+![](.Readme_images/V010_screenshot.png)
 

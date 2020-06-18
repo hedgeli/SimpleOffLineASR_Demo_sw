@@ -1,5 +1,8 @@
 #### 一、功能说明  Simple ASR Description  
-简单的离线命令词语音识别程序。
+简单的离线命令词语音识别程序。  
+      
+演示视频：https://www.bilibili.com/video/BV1b54y1B7ne?from=search&seid=12613039173403878744    
+    
 针对特定人，需要预先录制命令词语音模板。
 
 **建议使用外接麦克录音，电脑内置麦克可能因为噪音过大不能正常识别语音**
@@ -21,6 +24,8 @@ By directly matching the language spectrum features (similar to Dhash),
 it can simply identify **Chinese**, **English** and **various dialects**.    
 
 #### 二、开发环境 Development Environment
+pycharm 2019CE  
+jupyter notebook    
 python  3.8.1        
 numpy  1.18.2   
 matplotlib  3.2.1        
